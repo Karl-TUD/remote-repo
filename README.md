@@ -1,6 +1,6 @@
 # remote-repo
 
-\# Greeting
+# Greeting
 
-Hello from Developer 1!
+Hello again from Developer 1!
 
